@@ -1,6 +1,7 @@
 - Editor -> General 
-  - -> Code Completion: (Case sensitive completion: None)
+  - -> uncheck Honor "CamelHumps" words settings when selecting on double click
   - -> Smart Keys: Use "CameHumps" words
+  - -> Code Completion: (Case sensitive completion: None)
 - Editor -> Colors & Fonts / Color Scheme
     - -> Font: (Save as: Mine), (Primary font: Consolas), (Size: 18)
      - -> General -> Text -> Default text: (Background: #C7EDCC)
